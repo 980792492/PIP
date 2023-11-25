@@ -3,7 +3,7 @@ import type { DescriptionsProps } from 'antd';
 import { Col, ConfigProvider, Descriptions, Row, theme, Typography } from 'antd';
 import React from 'react';
 import PackageDetails from './PackageDetails';
-
+ 
 const { Title } = Typography;
 
 interface CustDatailsProp {
